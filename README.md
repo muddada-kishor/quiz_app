@@ -58,4 +58,4 @@ Online Quiz Application (Python, Tkinter)\
 
 ------------------------------------------------------------------------
 
-Created by Nani
+Created by Muddada Kishor
